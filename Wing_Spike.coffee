@@ -1,5 +1,5 @@
 return model =
-  name: 'U-Perimeter'
+  name: 'Spike'
   level: 6
   model: 3
   size: 2
