@@ -1,6 +1,5 @@
-- eekabou!
-- I was wondering what GitHub is
-- I make mods in the io game named [starblast.io]
+# starblast.io
+- just a random gamer
 
 
 <!---
